@@ -2,3 +2,4 @@ Version 1
 Login feature
 Payment module
 Fix: payment bug
+UI improvement
